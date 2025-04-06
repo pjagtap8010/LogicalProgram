@@ -12,7 +12,7 @@ public class LastFourChar {
 		  System.out.print(p1);
 		  
 		  
-		  
+		  System.out.print(p1);
 		  
 	  }
 }
